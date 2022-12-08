@@ -1,6 +1,5 @@
 # Used-Car-Seller-WebSite
 
-# Blood-Donation-Website
 
 This Website has 3 webpages right now.
 Feel free to Edit the code as this code is open source for the practice purpose.
